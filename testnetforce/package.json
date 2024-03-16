@@ -1,6 +1,6 @@
 {
   "name": "testnetforce",
-  "version": "1.1.4"
+  "version": "1.1.4", 
   "scripts": {
     "dev": "next dev",
     "build": "next build",
