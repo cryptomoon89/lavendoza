@@ -37,16 +37,9 @@ formatDateLanguange(date, lang, is_cut)
 
 ## 📆 Release Date
 
-* v1.0.0 : 26 February 2024
-* v1.1.0 : 02 March 2024
-* v2.0.0 : 02 March 2024
-* v2.5.0 : 10 March 2024
-* v2.5.1 : 10 March 2024
-* v2.5.2 : 11 March 2024
-* v4.0.0 : 11 March 2024
-* v4.0.1 : 11 March 2024
-* v4.0.2 : 18 March 2024
-* v5.0.0 : 31 March 2024
+* v1.1.4 : 26 February 2024
+* v1.1.5 : 03 April 2024
+
 
 ## 🧑 Author
 
