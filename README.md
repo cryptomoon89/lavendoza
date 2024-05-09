@@ -41,6 +41,7 @@ formatDateLanguange(date, lang, is_cut)
 * v1.2.2 : 05 April 2024
 * v2.1.2 : 07 April 2024
 * v2.1.3 : 09 april 2024
+* v2.1.4 : to be continue
 
 
 ## 🧑 Author
