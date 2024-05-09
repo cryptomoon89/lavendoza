@@ -33,7 +33,6 @@ formatDateLanguange(date, lang, is_cut)
 
 #### Return Value
 
-* Directly returns a string value according to the format used. Like `26 February 2024` or `26 Februari 2024`.
 
 ## 📆 Release Date
 
@@ -41,6 +40,7 @@ formatDateLanguange(date, lang, is_cut)
 * v1.1.5 : 03 April 2024
 * v1.2.2 : 05 April 2024
 * v2.1.2 : 07 April 2024
+* v2.1.3 : 09 april 2024
 
 
 ## 🧑 Author
