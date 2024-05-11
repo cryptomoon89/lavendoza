@@ -1,6 +1,6 @@
 {
   "name": "testnetforce",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "testnetforce",
   "main": "script.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cryptomoon89/lavendoza.git"
+    "url": "https://github.com/cryptomoon89/lavendoza"
   },
   "keywords": [
     "cryptomoon89"
